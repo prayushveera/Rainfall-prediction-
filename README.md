@@ -1,5 +1,6 @@
 # Rainfall-prediction-
 It contains data of rain from the past few years
+
 ABSTRACT
 
 This project is carried on the heuristic prediction of rainfall using machine learning techniques. As we all know agriculture was the leading issue of our country and economy. Even though a regular rain pattern is usually played important role for healthy agriculture but too much rainfall or too little rainfall can be injurious, even it led to destructive for crops. The decreasing trends in seasonal rainfall and post-monsoon rainfall and increasing occurrence of the deficit rainfall years indicates the probable intensification of water scarcity. This project calculates the rate of rainfall in previous years according to various crops season like rabbi, Kharif, zaid and predicts the rainfall in future seasons. We have selected a real data set which consists of past year’s rainfall rate accorded to various seasons. This website results in helping farmers to make a correct decision to harvest a particular crop accordingly to crops seasons.
